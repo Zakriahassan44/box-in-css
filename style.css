@@ -1,0 +1,213 @@
+/* Box Dimension */
+
+/* div{
+    
+    height: 200px;
+    width: 500px;
+     background-color: wheat;
+}
+p{
+    
+    width: 20px;
+
+} */
+
+
+/* LIMITING WIDTH */
+/* td.description {
+    min-width: 450px;
+    max-width: 650px;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;
+} */
+
+/* LIMITING height */
+
+/* h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;}
+h2 {
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;}
+p {
+    min-height: 10px;
+    max-height: 30px;
+} */
+
+/* Overflow */
+/* p{
+    max-height: 100px;
+    border: 1px solid red;
+    overflow: hidden;
+} */
+
+/* Border width */
+/* p{
+    border: 1px solid red;
+} */
+
+/* p{
+    border-color: red;
+    border-style: solid;
+    border-width: 2px ;
+} */
+
+/* p{
+    border-width: thick;
+    border-style: solid;
+} */
+
+/* p{
+    border-style: solid;
+    border-top-width: 5px;
+    border-bottom-width: 50px;
+} */
+
+/* shortened
+p{
+    border-style: solid;
+    border-width: 1px 2px 3px 4px;
+}
+
+/* onr by one */
+
+/* p{
+    border-top-width: 5px;
+    border-right-width: 4px;
+    border-bottom-width: 4px;
+    border-left-width: 3px;
+}  */
+
+
+/* borderstyle */
+/* p{
+    border-style: dashed;
+} */
+
+/*border color  */
+
+/* p{
+    border-style: dashed;
+    color: red;
+} */
+
+/* border shorthand */
+/* p{
+    border: 1px solid red;
+} */
+
+/* paddding */
+
+/* p{
+    border: 1px solid red;
+    padding: 40px;
+} */
+
+/* Margin */
+
+/* p{
+    border: 2px solid red;
+    margin: 34px 10px 30px 32px;
+} */
+
+/* Cenetreing content */
+/* p{
+    border: 2px solid red;
+    width: 300px;
+    padding: 50px;
+} */
+
+/* p.example{
+    margin: 10px auto 10px auto;
+    text-align: left;
+} */
+
+/* .example{
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+/* CHANGE INLINE BLOCK */
+/* li{
+    display: inline;
+    margin-right: 20px;
+}
+
+li.coming-soon {
+    display: none;
+} */
+
+/* HIDING BOXES */
+/* li {
+    display: inline; 
+    margin-right: 10px;
+}
+    
+li.coming-soon {
+    visibility: hidden;
+} */
+
+/* BORDER IMAGES */
+/* .one{
+    border: 10px solid transparent;
+    padding: 5px;
+    border-image: url(./images/images.png);
+} */
+
+
+/* Box shadow */
+
+/* .one{
+    width: 20px;
+    box-shadow: 2px 3px 4px 5px  red;
+} */
+
+/* p{
+    width: 200px;
+    border: 2px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 20px 40px 60px 80px;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+
+} */
+
+/* p{
+    width: 100px;
+    text-align: center;
+    border: 2px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+
+} */
+
+
+/* body{
+    background-color: black;
+}
+
+p{
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+} */
+/* 
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+} */
